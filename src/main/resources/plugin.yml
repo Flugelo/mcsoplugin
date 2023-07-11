@@ -1,0 +1,4 @@
+name: MCSPlugin
+version: '${project.version}'
+main: me.flugel.mcsplugin.MCSPlugin
+api-version: '1.20'
